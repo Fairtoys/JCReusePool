@@ -1,0 +1,23 @@
+PODS:
+  - JCReusePool (0.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - JCReusePool (from `../`)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  JCReusePool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JCReusePool: c69e481f61977d0fa4dae3ab7559af9b29c67edf
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: af4f7a29a63d1076785dde1f3de7396e487995d3
+
+COCOAPODS: 1.8.3
